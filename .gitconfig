@@ -1,0 +1,21 @@
+[filter "lfs"]
+	clean = git-lfs clean %f
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	smudge = git-lfs smudge %f
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[user]
+	name = Lars Mulder
+	email = lars@helahe.eu
+[core]
+	excludesfile = C:/Users/Lars/Global.gitignore
